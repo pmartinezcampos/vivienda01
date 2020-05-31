@@ -27,6 +27,7 @@ public class Hogar
          Vivienda casa2 = new Vivienda(precio, numHabitaciones, superficie, parking, estado, propietario) ;
          
         imprimirVivienda(casa1);
+        imprimirVivienda(casa1);
         
         imprimirVivienda(casa2);
         
